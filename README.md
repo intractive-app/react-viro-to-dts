@@ -12,7 +12,7 @@ _Note: Definition file is exported to @types/react-viro/index.d.ts_
 
 ## Using it in your project
 
-Copy the resulting `./@types` folder to your own project. Make sure you have the following lines in the compilerOptions directive of your `tsconfig.json`:
+Copy the resulting `./@types` folder to your own project. Make sure you have the following line in the compilerOptions directive of your `tsconfig.json`:
 
 ```
 // If you use custom typeRoots add them to the array
