@@ -15,5 +15,8 @@ _Note: Definition file is exported to @types/react-viro/index.d.ts_
 Copy the resulting `./@types` folder to your own project. Make sure you have the following lines in the compilerOptions directive of your `tsconfig.json`:
 
 ```
-    "typeRoots" : ["node_modules/@types", "./@types"], // If you use custom typeRoots add them to the array
+...
+// If you use custom typeRoots add them to the array
+"typeRoots" : ["node_modules/@types", "./@types"],
+...
 ```
